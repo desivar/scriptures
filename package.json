@@ -84,7 +84,35 @@
 
     "tailwindcss": "^4.1.12"
 
-  }
+  },
+
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+
+  "main": "index.js",
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/desivar/scriptures.git"
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "type": "commonjs",
+
+  "bugs": {
+
+    "url": "https://github.com/desivar/scriptures/issues"
+
+  },
+
+  "homepage": "https://github.com/desivar/scriptures#readme"
 
 }
 
